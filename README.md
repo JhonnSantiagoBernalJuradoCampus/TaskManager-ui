@@ -72,14 +72,9 @@ Los estilos de la aplicación están definidos en `index.css` y se utilizan clas
 - **Completar Tarea**: Los usuarios pueden marcar una tarea como completada utilizando una casilla de verificación.  
 - **Eliminar Tareas Completadas**: Los usuarios pueden eliminar todas las tareas que han sido marcadas como completadas.
 
-# Configuración de ESLint
+# Ver tareas
+![alt text](image.png)
 
-El proyecto utiliza **ESLint** para mantener la calidad del código. La configuración de ESLint se encuentra en `eslint.config.js`.
-
-# Configuración de TypeScript
-
-La configuración de **TypeScript** se encuentra en los archivos `tsconfig.app.json` y `tsconfig.node.json`.
-
-# Configuración de Vite
-
-La configuración de **Vite** se encuentra en `vite.config.ts`.
+# Tareas completadas y elimina
+En el caso de completar una tarea, aparece un boton para eliminar las tareas completadas.
+![alt text](image-1.png)
